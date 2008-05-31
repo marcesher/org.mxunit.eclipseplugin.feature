@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.mxunit.eclipseplugin.feature"
+      label="MXUnit Test Runner"
+      version="0.0.9.qualifier"
+      provider-name="mxunit">
+
+   <description url="http://www.mxunit.org">
+      Eclipse Plugin for MXUnit Unit Testing Framework for ColdFusion.
+   </description>
+
+   <copyright>
+      Don&apos;t be evil
+   </copyright>
+
+   <license>
+      Don&apos;t bitch too loudly.
+   </license>
+
+   <url>
+      <update label="mxunit update site"/>
+   </url>
+
+   <plugin
+         id="org.mxunit.eclipseplugin"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>
