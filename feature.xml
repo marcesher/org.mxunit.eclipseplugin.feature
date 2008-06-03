@@ -18,7 +18,7 @@
    </license>
 
    <url>
-      <update label="mxunit update site"/>
+      <update label="MXUnit Eclipse Plugin Update Site" url="http://mxunit.org/update"/>
    </url>
 
    <plugin
