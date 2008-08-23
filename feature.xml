@@ -2,7 +2,7 @@
 <feature
       id="org.mxunit.eclipseplugin.feature"
       label="MXUnit Test Runner"
-      version="1.0.2.qualifier"
+      version="1.0.5.qualifier"
       provider-name="mxunit">
 
    <description url="http://www.mxunit.org">
