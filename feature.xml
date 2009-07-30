@@ -2,8 +2,8 @@
 <feature
       id="org.mxunit.eclipseplugin.feature"
       label="MXUnit Test Runner"
-      version="1.1.0.qualifier"
-      provider-name="mxunit">
+      version="1.1.1.qualifier"
+      provider-name="MXUnit">
 
    <description url="http://www.mxunit.org">
       Eclipse Plugin for MXUnit Unit Testing Framework for ColdFusion.
